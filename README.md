@@ -10,4 +10,13 @@ Desafio proposto no programa Explorer da Rocketseat, a ideia era pegar o código
 
 **Front-end:** HTML & CSS
 
+## Imagens de exemplo:
+
+### HTML antes:
+
+<img src="https://github.com/jscloneski/HTML-Sem-ntico/blob/main/readme%20images/Antes.jpeg">
+
+### HTML reestruturado com semântica:
+
+<img src="https://github.com/jscloneski/HTML-Sem-ntico/blob/main/readme%20images/Depois.jpeg">
 
